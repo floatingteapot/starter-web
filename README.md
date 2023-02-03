@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Som deployment words
+
+## Some New Section
+Another section full of awesomeness
