@@ -20,3 +20,6 @@ I don't do promises anymore
 
 ## IT NEVER STOPS
 Sorry.
+
+## Copyright
+Me 2022
