@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
-Adding some new purpose for rebasing example
+Adding some new purpose for rebasing example, more changes from myfeature brnch too.
 
 ## Deployment
 Som deployment words
