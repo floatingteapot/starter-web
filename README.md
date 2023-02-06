@@ -23,7 +23,4 @@ I don't do promises anymore
 Sorry.
 
 ## Copyright
-Me 2022
-An update in the merge lesson
-All rights reserved
-Adding a line for stash example
+Reverting to simple entry - for ttest-branch created in GitHub
