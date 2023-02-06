@@ -25,3 +25,4 @@ Sorry.
 ## Copyright
 Me 2022
 An update in the merge lesson
+All rights reserved
